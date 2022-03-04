@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Fabrica
+comment0.text=\r\n\ Proyecto\ de\ la\ asignatura\ de\ Programaci\u00F3n\ Orientada\ a\ Objetos\ \ \ \ \r\n\ Curso\ 1\u00BA\ Ingenier\u00EDa\ en\ Tecnolog\u00EDas\ de\ la\ Informaci\u00F3n\ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ UNED\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ @author\ Ram\u00F3n\ Mart\u00EDnez\ Fern\u00E1ndez\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ @version\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n
+comment1.params=
+comment1.target=Fabrica()
+comment10.params=
+comment10.target=void\ accionesArtesano()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=
+comment3.target=void\ verListadoComerciales()
+comment4.params=
+comment4.target=void\ verListadoEnPlantilla()
+comment5.params=
+comment5.target=void\ verListadoPorHoras()
+comment6.params=
+comment6.target=void\ verListadoPedidosActivos()
+comment7.params=
+comment7.target=void\ defaultCase()
+comment8.params=
+comment8.target=void\ accionesJefe()
+comment9.params=
+comment9.target=void\ accionesComercial()
+numComments=11

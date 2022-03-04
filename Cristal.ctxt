@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Cristal
+comment0.text=\r\n\ Proyecto\ de\ la\ asignatura\ de\ Programaci\u00F3n\ Orientada\ a\ Objetos\r\n\ Curso\ 1\u00BA\ Ingenier\u00EDa\ en\ Tecnolog\u00EDas\ de\ la\ Informaci\u00F3n\ \r\n\ UNED\r\n\ \r\n\ @author\ Ram\u00F3n\ Mart\u00EDnez\ Fern\u00E1ndez\r\n\ @version\ \r\n
+comment1.params=numeroMuebles
+comment1.target=Cristal(int)
+comment2.params=
+comment2.target=int\ getNumeroMuebles()
+comment3.params=
+comment3.target=java.lang.String\ mostrarNumeroMuebles()
+numComments=4
